@@ -46,3 +46,6 @@ h. Delete an entry from the table where the passenger name is Piyush and commit 
 i. Truncate the table passenger and comment on the number of rows in the table (explain if required). 
 
 j. Delete the table passenger from the database.
+
+
+## The SQL queries for the questions asked above are provided in the Travego Travellers Solution.sql File.
